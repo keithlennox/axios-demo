@@ -1,10 +1,11 @@
+/*
+Very basic demo of how to use axios with async await within a React app. Based on:
+https://medium.com/better-programming/how-to-use-async-await-with-axios-in-react-e07daac2905f
+ */
+
 import React, { Component } from 'react';
 import axios from 'axios';
 import './App.css';
-
-/*
-https://medium.com/better-programming/how-to-use-async-await-with-axios-in-react-e07daac2905f
- */
 
 class App extends Component {
 
